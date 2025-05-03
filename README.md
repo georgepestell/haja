@@ -1,6 +1,8 @@
 # Haja
 
-A partial compiler implementation for a toy language written in Haskell. Transpiles code into Java.
+A partial compiler implementation for a toy language written in Haskell.
+
+Transpiles code into Java.
 
 # Additional Information
 
